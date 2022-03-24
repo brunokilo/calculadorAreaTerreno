@@ -1,0 +1,14 @@
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\bin\Debug\netcoreapp3.1\calculadordepreçodeterreno.exe
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\bin\Debug\netcoreapp3.1\calculadordepreçodeterreno.deps.json
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\bin\Debug\netcoreapp3.1\calculadordepreçodeterreno.runtimeconfig.json
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\bin\Debug\netcoreapp3.1\calculadordepreçodeterreno.runtimeconfig.dev.json
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\bin\Debug\netcoreapp3.1\calculadordepreçodeterreno.dll
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\bin\Debug\netcoreapp3.1\calculadordepreçodeterreno.pdb
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\obj\Debug\netcoreapp3.1\calculadordepreçodeterreno.csproj.AssemblyReference.cache
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\obj\Debug\netcoreapp3.1\calculadordepreçodeterreno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\obj\Debug\netcoreapp3.1\calculadordepreçodeterreno.AssemblyInfoInputs.cache
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\obj\Debug\netcoreapp3.1\calculadordepreçodeterreno.AssemblyInfo.cs
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\obj\Debug\netcoreapp3.1\calculadordepreçodeterreno.csproj.CoreCompileInputs.cache
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\obj\Debug\netcoreapp3.1\calculadordepreçodeterreno.dll
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\obj\Debug\netcoreapp3.1\calculadordepreçodeterreno.pdb
+D:\Projetos do curso de c\ws-vs2019\calculadordepreçodeterreno\calculadordepreçodeterreno\obj\Debug\netcoreapp3.1\calculadordepreçodeterreno.genruntimeconfig.cache
